@@ -2,13 +2,13 @@
   "version": "1.8.6",
   "googlePlay": "1.8.7",
   "ruStore": "1.8.6",
-  "configRevision": 4,
+  "configRevision": 5,
   "features": {
     "relativeProtection": {
-      "mode": "subscription_required",
-      "effectiveAt": "2026-08-31T00:00:00Z",
+      "mode": "free",
+      "effectiveAt": null,
       "graceDays": 7,
-      "message": "Тест: функция станет платной через 7 дней — 31 августа 2026 года."
+      "message": "Идёт тестирование, функция бесплатна."
     }
   }
 }
