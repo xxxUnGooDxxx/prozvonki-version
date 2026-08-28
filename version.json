@@ -1,7 +1,7 @@
 {
-  "version": "1.8.6",
+  "version": "1.8.9",
   "googlePlay": "1.9.1",
-  "ruStore": "1.8.6",
+  "ruStore": "1.8.9",
   "configRevision": 5,
   "features": {
     "relativeProtection": {
