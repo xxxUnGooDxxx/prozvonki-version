@@ -1,7 +1,7 @@
 {
   "version": "2.0.4",
   "googlePlay": "2.0.4",
-  "ruStore": "2.0.4",
+  "ruStore": "2.0.5",
   "configRevision": 5,
   "features": {
     "relativeProtection": {
