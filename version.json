@@ -1,8 +1,8 @@
 {
-  "version": "2.2.0",
+  "version": "2.2.1",
   "googlePlay": "2.2.1",
   "ruStore": "2.2.1",
-  "appGallery": "2.2.0",
+  "appGallery": "2.2.1",
   "configRevision": 5,
   "features": {
     "relativeProtection": {
